@@ -1,0 +1,9 @@
+User-agent: Yeti
+User-agent: Googlebot
+user-agent: Daum
+Allow: /
+
+User-agent: Googlebot-image
+Disallow : /
+
+sitemap: http://chok0908.freeiz.com/sitemap.xml
